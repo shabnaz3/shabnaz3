@@ -84,10 +84,9 @@ title.append(Title(value="jhgjhg", language="en"))
 catalog=Catalog(type="ggg",offer=[],id="s1")
 t= Selfdescription(title=title,type= "b",context="d",catalog=catalog,outboundModelVersion="de",
                    inboundModelVersion=inboundModelVersion,curator="",maintainer="s",id="j")
-t.title="title"
+
 t.type="b"
 t.context="d"
-t.catalog="Catalog"
 t.inboundModelVersion="r"
 t.outboundModelVersion="de"
 t.curator="g"
